@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ListDisplay</string>
+    <string-array name="array_platforms">
+        <item>Android</item>
+        <item>IOS</item>
+        <item>Ubuntu</item>
+        <item>Windows</item>
+        <item>Cherry</item>
+    </string-array>
+
+</resources>
